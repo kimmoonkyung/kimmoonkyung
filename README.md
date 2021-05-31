@@ -1,4 +1,4 @@
-### ◈ 야하룽 ◈
+### ★ 야하룽 ★
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kimmoonkyung)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **kimmoonkyung/kimmoonkyung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
